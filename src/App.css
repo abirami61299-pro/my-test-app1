@@ -1,7 +1,25 @@
 .App{
   background-color: green;
-}
-.container{
-  margin: auto;
+  height: 6em;
+  .game{
+   float: right;
+  }
+ 
   
+}
+.play{
+  height: 100vh;
+  text-align: center;
+  margin-top: 4em;
+  .btn{
+    border:none;
+    background-color: rgb(127, 208, 255);
+    padding: 1.5em 1em;
+    font-size: x-large;
+    border-radius: 1em;
+    color:white;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+  }
 }
