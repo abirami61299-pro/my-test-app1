@@ -22,7 +22,7 @@
 	},
 	"stackblitz": {
 		"installDependencies": false,
-		"startCommand": "npm install"
+		"startCommand": "npm install && npm run start"
 	},
 	"scripts": {
 		"postinstall": "npm install",

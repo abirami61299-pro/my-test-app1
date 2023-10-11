@@ -1,0 +1,7 @@
+{
+	"loglevel": "info",
+
+	"progress": true,
+
+	"disablePolyfills": true
+}
